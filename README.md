@@ -2,7 +2,7 @@
 
 <div> 
   <a href="https//github.com/lucasalmeida17">  
-    <img src="https://github-readme-stats.vercel.app/api?username=lucasalmeida17&show_icons=false&theme=algolia"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasalmeida17&show_icons=false&theme=algolia&include_all_commits=false&count_private=false"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalmeida17&layout=donut-vertical&lang_count-16theme=algolia"/>
   </a>
 </div>
